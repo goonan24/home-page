@@ -64,7 +64,9 @@ class HomePage extends LitElement {
         <a href="https://personal-project-indol.vercel.app/">
           <button>qualification calculator</button>
         </a>
-        <button>random workout generator</button>
+        <a href="https://rand-work.vercel.app/">
+          <button>random workout generator</button>
+        </a>
         <button>page three</button>
         <button>page four</button>
         <button>page five</button>
