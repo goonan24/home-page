@@ -35,10 +35,10 @@ class HomePage extends LitElement {
     }
 
     img{
-      position: absolute;
-      top: 100px;
-      left: 250px;
-      height: 150px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 300px;
 
     }
 
