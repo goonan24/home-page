@@ -61,7 +61,7 @@ class HomePage extends LitElement {
     return html`
       <main>
         <header>Work Out App</header>
-        <a href="https://personal-project-indol.vercel.app/">
+        <a href="https://personal-project-red.vercel.app/">
           <button>qualification calculator</button>
         </a>
         <a href="https://rand-work.vercel.app/">
